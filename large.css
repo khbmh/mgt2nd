@@ -118,7 +118,8 @@ display: none;
   border-radius: 5px;
   font-family: "Josefin Sans", sans-serif;
   font-size: large;
-  /* transition: .2s linear; */
+  transition: .2s linear;
+  cursor: pointer;
 }
 .sub button:hover {
   /* opacity: .8; */
